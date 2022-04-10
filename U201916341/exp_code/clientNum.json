@@ -1,0 +1,195 @@
+[
+	{
+		"base": { "objectSize": "0.0010", "numClients": "1", "numSamples": "1024" },
+		"write": {
+			"TotalTransferred": "1.000",
+			"TotalThroughput": "0.15",
+			"TotalDuration": "6.868",
+			"NumberofErrors": "0"
+		},
+		"read": {
+			"TotalTransferred": "1.000",
+			"TotalThroughput": "1.07",
+			"TotalDuration": "0.935",
+			"NumberofErrors": "0"
+		}
+	},
+	{
+		"base": { "objectSize": "0.0010", "numClients": "2", "numSamples": "1024" },
+		"write": {
+			"TotalTransferred": "1.000",
+			"TotalThroughput": "0.29",
+			"TotalDuration": "3.415",
+			"NumberofErrors": "0"
+		},
+		"read": {
+			"TotalTransferred": "1.000",
+			"TotalThroughput": "2.14",
+			"TotalDuration": "0.467",
+			"NumberofErrors": "0"
+		}
+	},
+	{
+		"base": { "objectSize": "0.0010", "numClients": "4", "numSamples": "1024" },
+		"write": {
+			"TotalTransferred": "1.000",
+			"TotalThroughput": "0.37",
+			"TotalDuration": "2.690",
+			"NumberofErrors": "0"
+		},
+		"read": {
+			"TotalTransferred": "1.000",
+			"TotalThroughput": "3.48",
+			"TotalDuration": "0.288",
+			"NumberofErrors": "0"
+		}
+	},
+	{
+		"base": { "objectSize": "0.0010", "numClients": "8", "numSamples": "1024" },
+		"write": {
+			"TotalTransferred": "1.000",
+			"TotalThroughput": "0.18",
+			"TotalDuration": "5.494",
+			"NumberofErrors": "0"
+		},
+		"read": {
+			"TotalTransferred": "1.000",
+			"TotalThroughput": "4.67",
+			"TotalDuration": "0.214",
+			"NumberofErrors": "0"
+		}
+	},
+	{
+		"base": {
+			"objectSize": "0.0010",
+			"numClients": "16",
+			"numSamples": "1024"
+		},
+		"write": {
+			"TotalTransferred": "1.000",
+			"TotalThroughput": "0.16",
+			"TotalDuration": "6.273",
+			"NumberofErrors": "0"
+		},
+		"read": {
+			"TotalTransferred": "1.000",
+			"TotalThroughput": "3.89",
+			"TotalDuration": "0.257",
+			"NumberofErrors": "0"
+		}
+	},
+	{
+		"base": {
+			"objectSize": "0.0010",
+			"numClients": "32",
+			"numSamples": "1024"
+		},
+		"write": {
+			"TotalTransferred": "1.000",
+			"TotalThroughput": "0.14",
+			"TotalDuration": "7.044",
+			"NumberofErrors": "0"
+		},
+		"read": {
+			"TotalTransferred": "1.000",
+			"TotalThroughput": "3.56",
+			"TotalDuration": "0.281",
+			"NumberofErrors": "0"
+		}
+	},
+	{
+		"base": {
+			"objectSize": "0.0010",
+			"numClients": "64",
+			"numSamples": "1024"
+		},
+		"write": {
+			"TotalTransferred": "1.000",
+			"TotalThroughput": "0.14",
+			"TotalDuration": "7.109",
+			"NumberofErrors": "0"
+		},
+		"read": {
+			"TotalTransferred": "1.000",
+			"TotalThroughput": "3.05",
+			"TotalDuration": "0.328",
+			"NumberofErrors": "0"
+		}
+	},
+	{
+		"base": {
+			"objectSize": "0.0010",
+			"numClients": "128",
+			"numSamples": "1024"
+		},
+		"write": {
+			"TotalTransferred": "1.000",
+			"TotalThroughput": "0.14",
+			"TotalDuration": "6.945",
+			"NumberofErrors": "0"
+		},
+		"read": {
+			"TotalTransferred": "1.000",
+			"TotalThroughput": "2.32",
+			"TotalDuration": "0.430",
+			"NumberofErrors": "0"
+		}
+	},
+	{
+		"base": {
+			"objectSize": "0.0010",
+			"numClients": "256",
+			"numSamples": "1024"
+		},
+		"write": {
+			"TotalTransferred": "1.000",
+			"TotalThroughput": "0.13",
+			"TotalDuration": "7.589",
+			"NumberofErrors": "0"
+		},
+		"read": {
+			"TotalTransferred": "1.000",
+			"TotalThroughput": "1.48",
+			"TotalDuration": "0.676",
+			"NumberofErrors": "0"
+		}
+	},
+	{
+		"base": {
+			"objectSize": "0.0010",
+			"numClients": "512",
+			"numSamples": "1024"
+		},
+		"write": {
+			"TotalTransferred": "1.000",
+			"TotalThroughput": "0.13",
+			"TotalDuration": "7.601",
+			"NumberofErrors": "0"
+		},
+		"read": {
+			"TotalTransferred": "1.000",
+			"TotalThroughput": "1.11",
+			"TotalDuration": "0.905",
+			"NumberofErrors": "0"
+		}
+	},
+	{
+		"base": {
+			"objectSize": "0.0010",
+			"numClients": "1024",
+			"numSamples": "1024"
+		},
+		"write": {
+			"TotalTransferred": "1.000",
+			"TotalThroughput": "0.13",
+			"TotalDuration": "7.938",
+			"NumberofErrors": "0"
+		},
+		"read": {
+			"TotalTransferred": "1.000",
+			"TotalThroughput": "0.86",
+			"TotalDuration": "1.162",
+			"NumberofErrors": "0"
+		}
+	}
+]
