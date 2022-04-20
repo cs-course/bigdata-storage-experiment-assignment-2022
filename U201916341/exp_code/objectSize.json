@@ -1,0 +1,167 @@
+[
+	{
+		"base": { "objectSize": "0.0010", "numClients": "8", "numSamples": "1024" },
+		"write": {
+			"TotalTransferred": "1.000",
+			"TotalThroughput": "0.20",
+			"TotalDuration": "4.981",
+			"NumberofErrors": "0"
+		},
+		"read": {
+			"TotalTransferred": "1.000",
+			"TotalThroughput": "4.15",
+			"TotalDuration": "0.241",
+			"NumberofErrors": "0"
+		}
+	},
+	{
+		"base": { "objectSize": "0.0020", "numClients": "8", "numSamples": "1024" },
+		"write": {
+			"TotalTransferred": "2.000",
+			"TotalThroughput": "0.36",
+			"TotalDuration": "5.535",
+			"NumberofErrors": "0"
+		},
+		"read": {
+			"TotalTransferred": "2.000",
+			"TotalThroughput": "7.92",
+			"TotalDuration": "0.253",
+			"NumberofErrors": "0"
+		}
+	},
+	{
+		"base": { "objectSize": "0.0039", "numClients": "8", "numSamples": "1024" },
+		"write": {
+			"TotalTransferred": "4.000",
+			"TotalThroughput": "0.75",
+			"TotalDuration": "5.353",
+			"NumberofErrors": "0"
+		},
+		"read": {
+			"TotalTransferred": "4.000",
+			"TotalThroughput": "16.53",
+			"TotalDuration": "0.242",
+			"NumberofErrors": "0"
+		}
+	},
+	{
+		"base": { "objectSize": "0.0078", "numClients": "8", "numSamples": "1024" },
+		"write": {
+			"TotalTransferred": "8.000",
+			"TotalThroughput": "1.51",
+			"TotalDuration": "5.303",
+			"NumberofErrors": "0"
+		},
+		"read": {
+			"TotalTransferred": "8.000",
+			"TotalThroughput": "30.99",
+			"TotalDuration": "0.258",
+			"NumberofErrors": "0"
+		}
+	},
+	{
+		"base": { "objectSize": "0.0156", "numClients": "8", "numSamples": "1024" },
+		"write": {
+			"TotalTransferred": "16.000",
+			"TotalThroughput": "3.31",
+			"TotalDuration": "4.830",
+			"NumberofErrors": "0"
+		},
+		"read": {
+			"TotalTransferred": "16.000",
+			"TotalThroughput": "62.96",
+			"TotalDuration": "0.254",
+			"NumberofErrors": "0"
+		}
+	},
+	{
+		"base": { "objectSize": "0.0312", "numClients": "8", "numSamples": "1024" },
+		"write": {
+			"TotalTransferred": "32.000",
+			"TotalThroughput": "5.92",
+			"TotalDuration": "5.410",
+			"NumberofErrors": "0"
+		},
+		"read": {
+			"TotalTransferred": "32.000",
+			"TotalThroughput": "130.26",
+			"TotalDuration": "0.246",
+			"NumberofErrors": "0"
+		}
+	},
+	{
+		"base": { "objectSize": "0.0625", "numClients": "8", "numSamples": "1024" },
+		"write": {
+			"TotalTransferred": "64.000",
+			"TotalThroughput": "11.34",
+			"TotalDuration": "5.644",
+			"NumberofErrors": "0"
+		},
+		"read": {
+			"TotalTransferred": "64.000",
+			"TotalThroughput": "251.43",
+			"TotalDuration": "0.255",
+			"NumberofErrors": "0"
+		}
+	},
+	{
+		"base": { "objectSize": "0.1250", "numClients": "8", "numSamples": "1024" },
+		"write": {
+			"TotalTransferred": "128.000",
+			"TotalThroughput": "21.85",
+			"TotalDuration": "5.859",
+			"NumberofErrors": "0"
+		},
+		"read": {
+			"TotalTransferred": "128.000",
+			"TotalThroughput": "476.14",
+			"TotalDuration": "0.269",
+			"NumberofErrors": "0"
+		}
+	},
+	{
+		"base": { "objectSize": "0.2500", "numClients": "8", "numSamples": "1024" },
+		"write": {
+			"TotalTransferred": "256.000",
+			"TotalThroughput": "38.30",
+			"TotalDuration": "6.685",
+			"NumberofErrors": "0"
+		},
+		"read": {
+			"TotalTransferred": "256.000",
+			"TotalThroughput": "798.31",
+			"TotalDuration": "0.321",
+			"NumberofErrors": "0"
+		}
+	},
+	{
+		"base": { "objectSize": "0.5000", "numClients": "8", "numSamples": "1024" },
+		"write": {
+			"TotalTransferred": "512.000",
+			"TotalThroughput": "71.72",
+			"TotalDuration": "7.139",
+			"NumberofErrors": "0"
+		},
+		"read": {
+			"TotalTransferred": "512.000",
+			"TotalThroughput": "1250.38",
+			"TotalDuration": "0.409",
+			"NumberofErrors": "0"
+		}
+	},
+  {
+		"base": { "objectSize": "0.9766", "numClients": "8", "numSamples": "1024" },
+		"write": {
+			"TotalTransferred": "1000.000",
+			"TotalThroughput": "101.86",
+			"TotalDuration": "9.817",
+			"NumberofErrors": "0"
+		},
+		"read": {
+			"TotalTransferred": "1000.000",
+			"TotalThroughput": "1702.93",
+			"TotalDuration": "0.587",
+			"NumberofErrors": "0"
+		}
+	}
+]
