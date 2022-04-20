@@ -1,0 +1,669 @@
+this is my s3bench
+params:{ accessKey:hust  secretKey:hust_obs  bucket:loadgen  endpoint:http://127.0.0.1:9090  numOfClients:1  numOfSamples:256  objectNamePrefix:loadgen  objectSize:1024 }Generating the sample data in memory whose size is 1024...
+Done. Time cost : 0s
+Setting up 1 clients...
+Runnig Write Test...
+Done.
+Runnig Read Test...
+Done.
+
+Result Summary for Write Operations
+Total Transferred:      0.250 MB
+Total Throughput:       0.171 MB/s
+Total Duration:         0.68480 s
+Number of Errors: 0
+----------------------------------------------------
+Write times Max  :      0.01128 s
+Write times 99%th:      0.00581 s
+Write times 90%th:      0.00421 s
+Write times 75%th:      0.00349 s
+Write times 50%th:      0.00256 s
+Write times 25%th:      0.00205 s
+Write times Min  :      0.00051 s
+
+
+Result Summary for Read Operations
+Total Transferred:      0.250 MB
+Total Throughput:       0.409 MB/s
+Total Duration:         1.63696 s
+Number of Errors: 0
+----------------------------------------------------
+Read times Max  :       0.04497 s
+Read times 99%th:       0.01088 s
+Read times 90%th:       0.00728 s
+Read times 75%th:       0.00648 s
+Read times 50%th:       0.00590 s
+Read times 25%th:       0.00548 s
+Read times Min  :       0.00123 s
+
+params:{ accessKey:hust  secretKey:hust_obs  bucket:loadgen  endpoint:http://127.0.0.1:9090  numOfClients:1  numOfSamples:256  objectNamePrefix:loadgen  objectSize:4096 }Generating the sample data in memory whose size is 4096...
+Done. Time cost : 0s
+Setting up 1 clients...
+Runnig Write Test...
+Done.
+Runnig Read Test...
+Done.
+
+Result Summary for Write Operations
+Total Transferred:      1.000 MB
+Total Throughput:       0.633 MB/s
+Total Duration:         0.63270 s
+Number of Errors: 0
+----------------------------------------------------
+Write times Max  :      0.01231 s
+Write times 99%th:      0.00539 s
+Write times 90%th:      0.00401 s
+Write times 75%th:      0.00334 s
+Write times 50%th:      0.00226 s
+Write times 25%th:      0.00163 s
+Write times Min  :      0.00050 s
+
+
+Result Summary for Read Operations
+Total Transferred:      1.000 MB
+Total Throughput:       1.551 MB/s
+Total Duration:         1.55118 s
+Number of Errors: 0
+----------------------------------------------------
+Read times Max  :       0.01309 s
+Read times 99%th:       0.01027 s
+Read times 90%th:       0.00706 s
+Read times 75%th:       0.00646 s
+Read times 50%th:       0.00593 s
+Read times 25%th:       0.00540 s
+Read times Min  :       0.00107 s
+
+params:{ accessKey:hust  secretKey:hust_obs  bucket:loadgen  endpoint:http://127.0.0.1:9090  numOfClients:1  numOfSamples:512  objectNamePrefix:loadgen  objectSize:1024 }Generating the sample data in memory whose size is 1024...
+Done. Time cost : 0s
+Setting up 1 clients...
+Runnig Write Test...
+Done.
+Runnig Read Test...
+Done.
+
+Result Summary for Write Operations
+Total Transferred:      0.500 MB
+Total Throughput:       0.733 MB/s
+Total Duration:         1.46591 s
+Number of Errors: 0
+----------------------------------------------------
+Write times Max  :      0.01506 s
+Write times 99%th:      0.00680 s
+Write times 90%th:      0.00451 s
+Write times 75%th:      0.00356 s
+Write times 50%th:      0.00263 s
+Write times 25%th:      0.00205 s
+Write times Min  :      0.00051 s
+
+
+Result Summary for Read Operations
+Total Transferred:      0.500 MB
+Total Throughput:       1.542 MB/s
+Total Duration:         3.08410 s
+Number of Errors: 0
+----------------------------------------------------
+Read times Max  :       0.01347 s
+Read times 99%th:       0.01053 s
+Read times 90%th:       0.00699 s
+Read times 75%th:       0.00643 s
+Read times 50%th:       0.00587 s
+Read times 25%th:       0.00533 s
+Read times Min  :       0.00160 s
+
+params:{ accessKey:hust  secretKey:hust_obs  bucket:loadgen  endpoint:http://127.0.0.1:9090  numOfClients:1  numOfSamples:512  objectNamePrefix:loadgen  objectSize:4096 }Generating the sample data in memory whose size is 4096...
+Done. Time cost : 0s
+Setting up 1 clients...
+Runnig Write Test...
+Done.
+Runnig Read Test...
+Done.
+
+Result Summary for Write Operations
+Total Transferred:      2.000 MB
+Total Throughput:       2.823 MB/s
+Total Duration:         1.41158 s
+Number of Errors: 0
+----------------------------------------------------
+Write times Max  :      0.01472 s
+Write times 99%th:      0.00584 s
+Write times 90%th:      0.00435 s
+Write times 75%th:      0.00352 s
+Write times 50%th:      0.00256 s
+Write times 25%th:      0.00198 s
+Write times Min  :      0.00051 s
+
+
+Result Summary for Read Operations
+Total Transferred:      2.000 MB
+Total Throughput:       6.123 MB/s
+Total Duration:         3.06132 s
+Number of Errors: 0
+----------------------------------------------------
+Read times Max  :       0.01297 s
+Read times 99%th:       0.00943 s
+Read times 90%th:       0.00687 s
+Read times 75%th:       0.00639 s
+Read times 50%th:       0.00585 s
+Read times 25%th:       0.00537 s
+Read times Min  :       0.00105 s
+
+params:{ accessKey:hust  secretKey:hust_obs  bucket:loadgen  endpoint:http://127.0.0.1:9090  numOfClients:1  numOfSamples:1024  objectNamePrefix:loadgen  objectSize:1024 }Generating the sample data in memory whose size is 1024...
+Done. Time cost : 0s
+Setting up 1 clients...
+Runnig Write Test...
+Done.
+Runnig Read Test...
+Done.
+
+Result Summary for Write Operations
+Total Transferred:      1.000 MB
+Total Throughput:       2.787 MB/s
+Total Duration:         2.78714 s
+Number of Errors: 0
+----------------------------------------------------
+Write times Max  :      0.01687 s
+Write times 99%th:      0.00675 s
+Write times 90%th:      0.00442 s
+Write times 75%th:      0.00346 s
+Write times 50%th:      0.00252 s
+Write times 25%th:      0.00194 s
+Write times Min  :      0.00051 s
+
+
+Result Summary for Read Operations
+Total Transferred:      1.000 MB
+Total Throughput:       6.109 MB/s
+Total Duration:         6.10897 s
+Number of Errors: 0
+----------------------------------------------------
+Read times Max  :       0.01347 s
+Read times 99%th:       0.00947 s
+Read times 90%th:       0.00680 s
+Read times 75%th:       0.00636 s
+Read times 50%th:       0.00588 s
+Read times 25%th:       0.00544 s
+Read times Min  :       0.00161 s
+
+params:{ accessKey:hust  secretKey:hust_obs  bucket:loadgen  endpoint:http://127.0.0.1:9090  numOfClients:1  numOfSamples:1024  objectNamePrefix:loadgen  objectSize:4096 }Generating the sample data in memory whose size is 4096...
+Done. Time cost : 0s
+Setting up 1 clients...
+Runnig Write Test...
+Done.
+Runnig Read Test...
+Done.
+
+Result Summary for Write Operations
+Total Transferred:      4.000 MB
+Total Throughput:       11.632 MB/s
+Total Duration:         2.90799 s
+Number of Errors: 0
+----------------------------------------------------
+Write times Max  :      0.03687 s
+Write times 99%th:      0.00659 s
+Write times 90%th:      0.00457 s
+Write times 75%th:      0.00351 s
+Write times 50%th:      0.00246 s
+Write times 25%th:      0.00162 s
+Write times Min  :      0.00051 s
+
+
+Result Summary for Read Operations
+Total Transferred:      4.000 MB
+Total Throughput:       24.488 MB/s
+Total Duration:         6.12197 s
+Number of Errors: 0
+----------------------------------------------------
+Read times Max  :       0.01800 s
+Read times 99%th:       0.00947 s
+Read times 90%th:       0.00687 s
+Read times 75%th:       0.00639 s
+Read times 50%th:       0.00590 s
+Read times 25%th:       0.00540 s
+Read times Min  :       0.00110 s
+
+params:{ accessKey:hust  secretKey:hust_obs  bucket:loadgen  endpoint:http://127.0.0.1:9090  numOfClients:4  numOfSamples:256  objectNamePrefix:loadgen  objectSize:1024 }Generating the sample data in memory whose size is 1024...
+Done. Time cost : 0s
+Setting up 4 clients...
+Runnig Write Test...
+Done.
+Runnig Read Test...
+Done.
+
+Result Summary for Write Operations
+Total Transferred:      0.250 MB
+Total Throughput:       0.113 MB/s
+Total Duration:         0.45232 s
+Number of Errors: 0
+----------------------------------------------------
+Write times Max  :      0.01190 s
+Write times 99%th:      0.01044 s
+Write times 90%th:      0.00867 s
+Write times 75%th:      0.00779 s
+Write times 50%th:      0.00697 s
+Write times 25%th:      0.00600 s
+Write times Min  :      0.00273 s
+
+
+Result Summary for Read Operations
+Total Transferred:      0.250 MB
+Total Throughput:       0.134 MB/s
+Total Duration:         0.53745 s
+Number of Errors: 0
+----------------------------------------------------
+Read times Max  :       0.01717 s
+Read times 99%th:       0.01464 s
+Read times 90%th:       0.01028 s
+Read times 75%th:       0.00912 s
+Read times 50%th:       0.00823 s
+Read times 25%th:       0.00748 s
+Read times Min  :       0.00115 s
+
+params:{ accessKey:hust  secretKey:hust_obs  bucket:loadgen  endpoint:http://127.0.0.1:9090  numOfClients:4  numOfSamples:256  objectNamePrefix:loadgen  objectSize:4096 }Generating the sample data in memory whose size is 4096...
+Done. Time cost : 0s
+Setting up 4 clients...
+Runnig Write Test...
+Done.
+Runnig Read Test...
+Done.
+
+Result Summary for Write Operations
+Total Transferred:      1.000 MB
+Total Throughput:       0.401 MB/s
+Total Duration:         0.40150 s
+Number of Errors: 0
+----------------------------------------------------
+Write times Max  :      0.02085 s
+Write times 99%th:      0.01532 s
+Write times 90%th:      0.00770 s
+Write times 75%th:      0.00687 s
+Write times 50%th:      0.00584 s
+Write times 25%th:      0.00516 s
+Write times Min  :      0.00215 s
+
+
+Result Summary for Read Operations
+Total Transferred:      1.000 MB
+Total Throughput:       0.595 MB/s
+Total Duration:         0.59491 s
+Number of Errors: 0
+----------------------------------------------------
+Read times Max  :       0.02428 s
+Read times 99%th:       0.01929 s
+Read times 90%th:       0.01245 s
+Read times 75%th:       0.01017 s
+Read times 50%th:       0.00842 s
+Read times 25%th:       0.00779 s
+Read times Min  :       0.00104 s
+
+params:{ accessKey:hust  secretKey:hust_obs  bucket:loadgen  endpoint:http://127.0.0.1:9090  numOfClients:4  numOfSamples:512  objectNamePrefix:loadgen  objectSize:1024 }Generating the sample data in memory whose size is 1024...
+Done. Time cost : 0s
+Setting up 4 clients...
+Runnig Write Test...
+Done.
+Runnig Read Test...
+Done.
+
+Result Summary for Write Operations
+Total Transferred:      0.500 MB
+Total Throughput:       0.366 MB/s
+Total Duration:         0.73135 s
+Number of Errors: 0
+----------------------------------------------------
+Write times Max  :      0.01091 s
+Write times 99%th:      0.00963 s
+Write times 90%th:      0.00729 s
+Write times 75%th:      0.00641 s
+Write times 50%th:      0.00555 s
+Write times 25%th:      0.00476 s
+Write times Min  :      0.00108 s
+
+
+Result Summary for Read Operations
+Total Transferred:      0.500 MB
+Total Throughput:       0.526 MB/s
+Total Duration:         1.05281 s
+Number of Errors: 0
+----------------------------------------------------
+Read times Max  :       0.01564 s
+Read times 99%th:       0.01246 s
+Read times 90%th:       0.00989 s
+Read times 75%th:       0.00896 s
+Read times 50%th:       0.00814 s
+Read times 25%th:       0.00744 s
+Read times Min  :       0.00105 s
+
+params:{ accessKey:hust  secretKey:hust_obs  bucket:loadgen  endpoint:http://127.0.0.1:9090  numOfClients:4  numOfSamples:512  objectNamePrefix:loadgen  objectSize:4096 }Generating the sample data in memory whose size is 4096...
+Done. Time cost : 0s
+Setting up 4 clients...
+Runnig Write Test...
+Done.
+Runnig Read Test...
+Done.
+
+Result Summary for Write Operations
+Total Transferred:      2.000 MB
+Total Throughput:       1.732 MB/s
+Total Duration:         0.86587 s
+Number of Errors: 0
+----------------------------------------------------
+Write times Max  :      0.01415 s
+Write times 99%th:      0.01196 s
+Write times 90%th:      0.00935 s
+Write times 75%th:      0.00794 s
+Write times 50%th:      0.00640 s
+Write times 25%th:      0.00528 s
+Write times Min  :      0.00213 s
+
+
+Result Summary for Read Operations
+Total Transferred:      2.000 MB
+Total Throughput:       2.298 MB/s
+Total Duration:         1.14912 s
+Number of Errors: 0
+----------------------------------------------------
+Read times Max  :       0.02208 s
+Read times 99%th:       0.01665 s
+Read times 90%th:       0.01180 s
+Read times 75%th:       0.00962 s
+Read times 50%th:       0.00844 s
+Read times 25%th:       0.00771 s
+Read times Min  :       0.00104 s
+
+params:{ accessKey:hust  secretKey:hust_obs  bucket:loadgen  endpoint:http://127.0.0.1:9090  numOfClients:4  numOfSamples:1024  objectNamePrefix:loadgen  objectSize:1024 }Generating the sample data in memory whose size is 1024...
+Done. Time cost : 0s
+Setting up 4 clients...
+Runnig Write Test...
+Done.
+Runnig Read Test...
+Done.
+
+Result Summary for Write Operations
+Total Transferred:      1.000 MB
+Total Throughput:       1.664 MB/s
+Total Duration:         1.66438 s
+Number of Errors: 0
+----------------------------------------------------
+Write times Max  :      0.01805 s
+Write times 99%th:      0.01135 s
+Write times 90%th:      0.00856 s
+Write times 75%th:      0.00742 s
+Write times 50%th:      0.00614 s
+Write times 25%th:      0.00534 s
+Write times Min  :      0.00163 s
+
+
+Result Summary for Read Operations
+Total Transferred:      1.000 MB
+Total Throughput:       2.206 MB/s
+Total Duration:         2.20633 s
+Number of Errors: 0
+----------------------------------------------------
+Read times Max  :       0.03157 s
+Read times 99%th:       0.01391 s
+Read times 90%th:       0.01026 s
+Read times 75%th:       0.00927 s
+Read times 50%th:       0.00845 s
+Read times 25%th:       0.00773 s
+Read times Min  :       0.00106 s
+
+params:{ accessKey:hust  secretKey:hust_obs  bucket:loadgen  endpoint:http://127.0.0.1:9090  numOfClients:4  numOfSamples:1024  objectNamePrefix:loadgen  objectSize:4096 }Generating the sample data in memory whose size is 4096...
+Done. Time cost : 0s
+Setting up 4 clients...
+Runnig Write Test...
+Done.
+Runnig Read Test...
+Done.
+
+Result Summary for Write Operations
+Total Transferred:      4.000 MB
+Total Throughput:       8.431 MB/s
+Total Duration:         2.10770 s
+Number of Errors: 0
+----------------------------------------------------
+Write times Max  :      0.04464 s
+Write times 99%th:      0.01597 s
+Write times 90%th:      0.01003 s
+Write times 75%th:      0.00864 s
+Write times 50%th:      0.00745 s
+Write times 25%th:      0.00648 s
+Write times Min  :      0.00175 s
+
+
+Result Summary for Read Operations
+Total Transferred:      4.000 MB
+Total Throughput:       9.902 MB/s
+Total Duration:         2.47546 s
+Number of Errors: 0
+----------------------------------------------------
+Read times Max  :       0.01855 s
+Read times 99%th:       0.01576 s
+Read times 90%th:       0.01164 s
+Read times 75%th:       0.01036 s
+Read times 50%th:       0.00942 s
+Read times 25%th:       0.00867 s
+Read times Min  :       0.00104 s
+
+params:{ accessKey:hust  secretKey:hust_obs  bucket:loadgen  endpoint:http://127.0.0.1:9090  numOfClients:8  numOfSamples:256  objectNamePrefix:loadgen  objectSize:1024 }Generating the sample data in memory whose size is 1024...
+Done. Time cost : 0s
+Setting up 8 clients...
+Runnig Write Test...
+Done.
+Runnig Read Test...
+Done.
+
+Result Summary for Write Operations
+Total Transferred:      0.250 MB
+Total Throughput:       0.118 MB/s
+Total Duration:         0.47354 s
+Number of Errors: 0
+----------------------------------------------------
+Write times Max  :      0.02569 s
+Write times 99%th:      0.02301 s
+Write times 90%th:      0.01846 s
+Write times 75%th:      0.01654 s
+Write times 50%th:      0.01458 s
+Write times 25%th:      0.01247 s
+Write times Min  :      0.00645 s
+
+
+Result Summary for Read Operations
+Total Transferred:      0.250 MB
+Total Throughput:       0.151 MB/s
+Total Duration:         0.60292 s
+Number of Errors: 0
+----------------------------------------------------
+Read times Max  :       0.04631 s
+Read times 99%th:       0.02682 s
+Read times 90%th:       0.02218 s
+Read times 75%th:       0.01943 s
+Read times 50%th:       0.01579 s
+Read times 25%th:       0.01401 s
+Read times Min  :       0.00173 s
+
+params:{ accessKey:hust  secretKey:hust_obs  bucket:loadgen  endpoint:http://127.0.0.1:9090  numOfClients:8  numOfSamples:256  objectNamePrefix:loadgen  objectSize:4096 }Generating the sample data in memory whose size is 4096...
+Done. Time cost : 0s
+Setting up 8 clients...
+Runnig Write Test...
+Done.
+Runnig Read Test...
+Done.
+
+Result Summary for Write Operations
+Total Transferred:      1.000 MB
+Total Throughput:       0.445 MB/s
+Total Duration:         0.44524 s
+Number of Errors: 0
+----------------------------------------------------
+Write times Max  :      0.02252 s
+Write times 99%th:      0.01901 s
+Write times 90%th:      0.01652 s
+Write times 75%th:      0.01516 s
+Write times 50%th:      0.01392 s
+Write times 25%th:      0.01235 s
+Write times Min  :      0.00679 s
+
+
+Result Summary for Read Operations
+Total Transferred:      1.000 MB
+Total Throughput:       0.959 MB/s
+Total Duration:         0.95922 s
+Number of Errors: 0
+----------------------------------------------------
+Read times Max  :       0.04072 s
+Read times 99%th:       0.03163 s
+Read times 90%th:       0.02394 s
+Read times 75%th:       0.01992 s
+Read times 50%th:       0.01773 s
+Read times 25%th:       0.01641 s
+Read times Min  :       0.00146 s
+
+params:{ accessKey:hust  secretKey:hust_obs  bucket:loadgen  endpoint:http://127.0.0.1:9090  numOfClients:8  numOfSamples:512  objectNamePrefix:loadgen  objectSize:1024 }Generating the sample data in memory whose size is 1024...
+Done. Time cost : 119.3µs
+Setting up 8 clients...
+Runnig Write Test...
+Done.
+Runnig Read Test...
+Done.
+
+Result Summary for Write Operations
+Total Transferred:      0.500 MB
+Total Throughput:       0.373 MB/s
+Total Duration:         0.74627 s
+Number of Errors: 0
+----------------------------------------------------
+Write times Max  :      0.02523 s
+Write times 99%th:      0.02136 s
+Write times 90%th:      0.01478 s
+Write times 75%th:      0.01281 s
+Write times 50%th:      0.01110 s
+Write times 25%th:      0.00983 s
+Write times Min  :      0.00620 s
+
+
+Result Summary for Read Operations
+Total Transferred:      0.500 MB
+Total Throughput:       0.528 MB/s
+Total Duration:         1.05664 s
+Number of Errors: 0
+----------------------------------------------------
+Read times Max  :       0.02917 s
+Read times 99%th:       0.02349 s
+Read times 90%th:       0.01914 s
+Read times 75%th:       0.01762 s
+Read times 50%th:       0.01626 s
+Read times 25%th:       0.01520 s
+Read times Min  :       0.00386 s
+
+params:{ accessKey:hust  secretKey:hust_obs  bucket:loadgen  endpoint:http://127.0.0.1:9090  numOfClients:8  numOfSamples:512  objectNamePrefix:loadgen  objectSize:4096 }Generating the sample data in memory whose size is 4096...
+Done. Time cost : 0s
+Setting up 8 clients...
+Runnig Write Test...
+Done.
+Runnig Read Test...
+Done.
+
+Result Summary for Write Operations
+Total Transferred:      2.000 MB
+Total Throughput:       2.010 MB/s
+Total Duration:         1.00499 s
+Number of Errors: 0
+----------------------------------------------------
+Write times Max  :      0.02694 s
+Write times 99%th:      0.02402 s
+Write times 90%th:      0.02009 s
+Write times 75%th:      0.01725 s
+Write times 50%th:      0.01536 s
+Write times 25%th:      0.01362 s
+Write times Min  :      0.00770 s
+
+
+Result Summary for Read Operations
+Total Transferred:      2.000 MB
+Total Throughput:       2.358 MB/s
+Total Duration:         1.17883 s
+Number of Errors: 0
+----------------------------------------------------
+Read times Max  :       0.04070 s
+Read times 99%th:       0.03829 s
+Read times 90%th:       0.01929 s
+Read times 75%th:       0.01735 s
+Read times 50%th:       0.01586 s
+Read times 25%th:       0.01416 s
+Read times Min  :       0.00128 s
+
+params:{ accessKey:hust  secretKey:hust_obs  bucket:loadgen  endpoint:http://127.0.0.1:9090  numOfClients:8  numOfSamples:1024  objectNamePrefix:loadgen  objectSize:1024 }Generating the sample data in memory whose size is 1024...
+Done. Time cost : 0s
+Setting up 8 clients...
+Runnig Write Test...
+Done.
+Runnig Read Test...
+Done.
+
+Result Summary for Write Operations
+Total Transferred:      1.000 MB
+Total Throughput:       1.824 MB/s
+Total Duration:         1.82357 s
+Number of Errors: 0
+----------------------------------------------------
+Write times Max  :      0.04804 s
+Write times 99%th:      0.02176 s
+Write times 90%th:      0.01678 s
+Write times 75%th:      0.01481 s
+Write times 50%th:      0.01310 s
+Write times 25%th:      0.01117 s
+Write times Min  :      0.00648 s
+
+
+Result Summary for Read Operations
+Total Transferred:      1.000 MB
+Total Throughput:       2.126 MB/s
+Total Duration:         2.12593 s
+Number of Errors: 0
+----------------------------------------------------
+Read times Max  :       0.02718 s
+Read times 99%th:       0.02263 s
+Read times 90%th:       0.01897 s
+Read times 75%th:       0.01774 s
+Read times 50%th:       0.01644 s
+Read times 25%th:       0.01539 s
+Read times Min  :       0.00157 s
+
+params:{ accessKey:hust  secretKey:hust_obs  bucket:loadgen  endpoint:http://127.0.0.1:9090  numOfClients:8  numOfSamples:1024  objectNamePrefix:loadgen  objectSize:4096 }Generating the sample data in memory whose size is 4096...
+Done. Time cost : 0s
+Setting up 8 clients...
+Runnig Write Test...
+Done.
+Runnig Read Test...
+Done.
+
+Result Summary for Write Operations
+Total Transferred:      4.000 MB
+Total Throughput:       8.962 MB/s
+Total Duration:         2.24062 s
+Number of Errors: 0
+----------------------------------------------------
+Write times Max  :      0.03104 s
+Write times 99%th:      0.02382 s
+Write times 90%th:      0.01924 s
+Write times 75%th:      0.01670 s
+Write times 50%th:      0.01488 s
+Write times 25%th:      0.01338 s
+Write times Min  :      0.00642 s
+
+
+Result Summary for Read Operations
+Total Transferred:      4.000 MB
+Total Throughput:       10.852 MB/s
+Total Duration:         2.71303 s
+Number of Errors: 0
+----------------------------------------------------
+Read times Max  :       0.05488 s
+Read times 99%th:       0.03160 s
+Read times 90%th:       0.01868 s
+Read times 75%th:       0.01706 s
+Read times 50%th:       0.01550 s
+Read times 25%th:       0.01402 s
+Read times Min  :       0.00123 s
+
+The line chart of the test result is saved as Write.html
+The line chart of the test result is saved as Read.html
